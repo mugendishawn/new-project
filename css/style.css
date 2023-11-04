@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(226, 220, 220);
+}
+
+h1{
+    color: black;
+}
+nav{
+        display:flex;
+        align-items: center;
+        padding: 10px 0;
+        text-align: center;
+}
+
+btn{
+    display: flex;
+    align-items: center;
+}
+
+h2{
+    text-align: left;
+    font-size: 80px;
+}
+
+.users-img{
+        width: 20px;
+        height: 20em;
+        size: 10px;
+}
+
+.respondent{
+    img{
+        width: 200px;
+        height: 15em;
+        size: 75px;
+    }
+}
+
+.logos-img{
+    size: 20px;
+}
